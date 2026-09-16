@@ -26,7 +26,7 @@ A simple and responsive **To-Do List Web Application** developed using **HTML, J
 ```text
 todo-list-javascript/
 │
-├── ToDoListLocalStorage.html
+├── index.html
 ├── todoslocal.js
 │
 └── bootstrap/
@@ -83,7 +83,7 @@ git clone https://github.com/lohith136/todo-list-javascript.git
 
 2. Open the project folder.
 
-3. Open `ToDoListLocalStorage.html` in your browser.
+3. Open `index.html` in your browser.
 
 No backend or database is required.
 
@@ -96,9 +96,3 @@ No backend or database is required.
 - Add due dates
 - Add dark mode
 
-## 👨‍💻 Author
-
-**Lohith**
-
-GitHub:
-https://github.com/lohith136
